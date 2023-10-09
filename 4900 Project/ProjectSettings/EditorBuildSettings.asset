@@ -8,4 +8,43 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/TriviaSceneQuestion1.unity
+    guid: 5173f7324cad4bf429090c126259fcad
+  - enabled: 1
+    path: Assets/Scenes/TriviaSceneQuestion1Answer.unity
+    guid: 51074ac4e50eaf344a65b6b3be5f543d
+  - enabled: 1
+    path: Assets/Scenes/TriviaSceneQuestion2.unity
+    guid: 77655718b479e1b4f884818a1bf1b59b
+  - enabled: 1
+    path: Assets/Scenes/TriviaSceneQuestion2Answer.unity
+    guid: 5cf8a521200b0bb4ba8ff5c7ab63a684
+  - enabled: 1
+    path: Assets/Scenes/TriviaSceneQuestion3.unity
+    guid: 5e36d9f574f26454d974549d3de46854
+  - enabled: 1
+    path: Assets/Scenes/TriviaSceneQuestion3Answer.unity
+    guid: cdb7b4eaf2a763c479197bb36683a0f1
+  - enabled: 1
+    path: Assets/Scenes/TriviaSceneQuestion4.unity
+    guid: 74a3e02f38ca5bd41a0982c8e3029089
+  - enabled: 1
+    path: Assets/Scenes/TriviaSceneQuestion4Answer.unity
+    guid: c5c32df032a2f72448f7a2e513418fc9
+  - enabled: 1
+    path: Assets/Scenes/TriviaSceneQuestion5.unity
+    guid: 3fd3454f51664c344a8114d4e23b2c27
+  - enabled: 1
+    path: Assets/Scenes/TriviaSceneQuestion5Answer.unity
+    guid: 0591d521f094b7942877941a54db4356
+  - enabled: 1
+    path: Assets/Scenes/GameSelectionScreen.unity
+    guid: 0285f4b901e423c46ba548d7d52f74b2
+  - enabled: 1
+    path: Assets/Scenes/TriviaSceneQuestion6.unity
+    guid: 2b5efabe9f7b93f43811a65e693dc598
+  - enabled: 1
+    path: Assets/Scenes/TriviaSceneQuestion6Answer.unity
+    guid: 17e0d4b7e04734f43a81d0afd8216de4
   m_configObjects: {}
